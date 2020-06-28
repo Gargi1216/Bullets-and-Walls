@@ -1,2 +1,2 @@
-# Bullets-and-Walls
-Designed using Visual Code Studios to test the efficiency of material of walls against bullets of different weights and speeds.
+# p5.play-boilerplate
+Boiler plate for p5.play
